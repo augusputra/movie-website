@@ -1,0 +1,22 @@
+.tbl-thumbnail{
+    width: 150px;
+}
+
+video{
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.title-news-detail{
+    color: rgb(63, 62, 62);
+    font-weight: bold;
+}
+
+.created-at-news-detail{
+    font-size: 13px;
+}
+
+.price{
+    font-weight: 600;
+    color: #4e73df;
+}
